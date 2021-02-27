@@ -1,5 +1,7 @@
 # news_zzy
 
+>  基于koa开发的一个简单后端接口，数据库是MongoDB
+
 ## Project setup
 ```
 npm install
